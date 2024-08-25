@@ -4,7 +4,7 @@
 
 Hi there 👋
 
-I'm Devi Subadra Venkatesan, a dedicated IT professional with a Master’s degree in Information Technology from Arizona State University. My expertise lies in full-stack development, cloud technologies, and data engineering. Here's a glimpse into my professional journey:
+I'm Devi Subadra Venkatesan, a dedicated IT professional with a Master’s in Information Technology from Arizona State University. My expertise lies in full-stack development, cloud technologies, and data engineering. Here's a glimpse into my professional journey:
 
 ## 🔭 Currently Working On
 
