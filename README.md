@@ -1,47 +1,33 @@
-# Devi Subadra Venkatesan
+**Hi there 👋**
 
-Hi there 👋
+I am Devi Subadra Venkatesan, 
 
-I'm Devi Subadra Venkatesan, a dedicated IT professional with a Master’s in Information Technology from Arizona State University. My expertise lies in full-stack development, cloud technologies, and data engineering. Here's a glimpse into my professional journey:
+🚀 **Software Engineer | Salesforce Enthusiast | Passionate about Cloud Technologies | Innovator and Problem Solver | Seeking Exciting Opportunities** 🌟
 
-## 🔭 Currently Working On
+I have been driven by a passion for cloud technologies and software development throughout my career. From my academic background in Computer Science to my diverse work experience, I have honed my skills and expertise in creating robust and scalable solutions within the Salesforce ecosystem.
 
-- Architecting scalable software solutions to drive organizational growth.
-- Enhancing my skills in cloud technologies and data engineering.
-- Developing proficiency in advanced programming languages and frameworks.
+🎓 **Academic Background**:
+- **Master of Science in Information Technology** from Arizona State University
+- **Bachelor of Technology in Computer Science & Engineering** from SRM University
 
-## 🌱 Currently Learning
+💼 **Work Experience**:
+- **Application Development Analyst at Accenture**: Integrated third-party applications with Salesforce, fine-tuned reports and dashboards, and streamlined processes, resulting in significant performance improvements.
+- **Salesforce Administrator at Trazikas Solutions Pvt Ltd**: Optimized application performance and applied database concepts to enhance data reliability.
+- **Cloud Analyst Intern at Kashiv Infotech**: Provided hands-on troubleshooting for MuleSoft products and collaborated with development teams to resolve critical technical challenges.
 
-- Advanced techniques in software architecture and design patterns.
-- Best practices in data engineering and cloud-based solutions.
-- New developments in Salesforce and other cutting-edge technologies.
+🌟 **Strengths and Skills**:
+With a strong foundation in Salesforce development and administration, I bring expertise in Apex, Visualforce, Lightning components, and integrations with third-party services. I also have experience in cloud technologies like AWS and Azure, and I am continuously enhancing my knowledge in data engineering and software architecture.
 
-## 👯 Looking to Collaborate On
+🌟 **Career Aspirations**:
+My long-term career aspiration is to become a leading expert in Salesforce and cloud technologies. I am passionate about architecting scalable software solutions that drive organizational growth. This role aligns perfectly with my goals, as it will allow me to further develop my skills and knowledge in Salesforce while working on impactful projects.
 
-- Projects involving full-stack development and cloud solutions.
-- Innovative solutions for data engineering and management.
-- Open-source contributions related to Salesforce and other enterprise technologies.
+📞 **Let's Connect**:
+I invite you to connect with me to explore potential collaborations, discuss exciting opportunities, or simply share insights and experiences. Together, we can create groundbreaking solutions and shape the future of cloud computing.
 
-## 🤔 I’m looking for help with ...
-- Collaborating on Salesforce-related Projects: Opportunities to contribute to open-source or collaborative Salesforce development, administration, or architecture projects.
-- Integrating and automating processes: Assistance with implementing integrations and automation, especially with Salesforce and cloud services like AWS and Azure.
-  
-## 💬 Ask Me About
+- **LinkedIn**: www.linkedin.com/in/devisubadravenkatesan
+- **Email**: devisv25@gmail.com
 
-- Full-stack development and cloud technologies.
-- Salesforce integrations and automation.
-- Career development in the tech industry and software engineering.
+✨ **Seeking Opportunities**:
+I am actively seeking roles and projects that challenge me to push the boundaries of Salesforce development and cloud technologies. If you have any opportunities that align with my expertise and aspirations, I would love to hear from you.
 
-## 📫 How to Reach Me
-
-- **Email**: [devisv25@gmail.com](mailto:devisv25@gmail.com)
-- **LinkedIn**: [Devi Subadra Venkatesan](https://www.linkedin.com/in/devisubadravenkatesan)
-- **Portfolio**: [Devi's Portfolio](https://www.yourportfolio.com)
-
-## 😄 Pronouns
-
-She/Her
-
-## ⚡ Fun Fact
-
-I enjoy exploring new technologies and am passionate about leveraging them to create innovative solutions!
+Thank you for taking the time to learn about my career journey. Let's connect and embark on an exciting professional journey together!
