@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Devi Subadra Venkatesan
 
 Hi there 👋
